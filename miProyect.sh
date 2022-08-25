@@ -1,6 +1,6 @@
 #!/bin/bash
 #by krqch
-
+#prueba de git
 trap ctrl_c INt
 clear
 function ctrl_c(){
